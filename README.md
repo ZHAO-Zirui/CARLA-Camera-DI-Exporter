@@ -1,2 +1,2 @@
-# CARLA-Camera-DI-Exporter-
+# CARLA-Camera-DI-Exporter
 Export carla camera data to display interface (DI)
